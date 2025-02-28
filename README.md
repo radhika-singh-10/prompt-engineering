@@ -17,3 +17,9 @@
 
 ## 4. DSP
 
+
+
+# Datasets
+
+## 1. <a href="https://arxiv.org/pdf/2401.05060">MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector</a>
+
